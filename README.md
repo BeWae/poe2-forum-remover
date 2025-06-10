@@ -15,7 +15,7 @@ This is a lightweight [Tampermonkey](https://www.tampermonkey.net/) userscript t
 ## 📦 Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) in your browser (Chrome, Firefox, Edge, etc.)
-2. Click [here to install the script](https://github.com/BeWae/poe2-forum-remover/)
+2. Add the latest [script](https://github.com/BeWae/poe2-forum-remover/blob/main/poe2remover.js)
 3. Visit [https://www.pathofexile.com/forum](https://www.pathofexile.com/forum) and enjoy the "cleaner" interface
 
 ---
