@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Remove Path of Exile 2 Forums (Forum Page)
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/BeWae/poe2-forum-remover
 // @version      1.0
 // @description  Hides forum boxes related to "Path of Exile 2" on pathofexile.com/forum
 // @author       BeWae
